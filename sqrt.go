@@ -1,3 +1,8 @@
+/*
+* This general approach is called Newton's method. 
+* It works well for many functions but especially well for square root.) 
+*/
+
 package main
 
 import (
